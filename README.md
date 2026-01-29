@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-sub@esm/index.mjs';
+import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-sub@v0.1.0-esm/index.mjs';
 ```
 
 #### sub( x, y )
@@ -106,7 +106,7 @@ import toFloat16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import map from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-map@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-sub@esm/index.mjs';
+import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-sub@v0.1.0-esm/index.mjs';
 
 var x = map( uniform( 100, -50.0, 50.0 ), toFloat16 );
 var y = map( uniform( 100, -50.0, 50.0 ), toFloat16 );
