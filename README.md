@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-sub@deno/mod.js';
+import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-sub@v0.1.1-deno/mod.js';
 ```
 
 #### sub( x, y )
@@ -101,7 +101,7 @@ import toFloat16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import map from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-map@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-sub@deno/mod.js';
+import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-sub@v0.1.1-deno/mod.js';
 
 var x = map( uniform( 100, -50.0, 50.0 ), toFloat16 );
 var y = map( uniform( 100, -50.0, 50.0 ), toFloat16 );
