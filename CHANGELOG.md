@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-29)
+## Unreleased (2026-06-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`41d00f4`](https://github.com/stdlib-js/stdlib/commit/41d00f4a92996389d89df079c8cc65b7c586d56d) - **docs:** add links [(#12824)](https://github.com/stdlib-js/stdlib/pull/12824) _(by Philipp Burckhardt)_
 -   [`0ca797b`](https://github.com/stdlib-js/stdlib/commit/0ca797b5558b96111256a7446eafe101761b240b) - **bench:** use float literals for `uniform` range arguments _(by Philipp Burckhardt)_
 
 </details>

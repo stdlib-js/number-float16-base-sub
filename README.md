@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Subtract two half-precision floating-point numbers.
+> Subtract two [half-precision floating-point numbers][ieee754].
 
 <!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
 
@@ -210,6 +210,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/number-float16-base-sub/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/number-float16-base-sub/main/LICENSE
+
+[ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
 
 </section>
 
